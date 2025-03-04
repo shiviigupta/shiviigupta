@@ -7,7 +7,3 @@ Here's a brief intro about me: <br>
 💼 Looking for full-time opportunities in AI/ML, Systems, and Research <br>
 
 Connect with me at shivig@andrew.cmu.edu!
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiviigupta&layout=compact)
-
